@@ -1,4 +1,4 @@
 Coderbyte
 =========
 
-These are my solutions to the challenges on http://coderbyte.com/
+Old code is old, plz don't judge :P
